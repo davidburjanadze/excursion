@@ -1,0 +1,16 @@
+
+
+
+header {
+  margin: 0 auto; 
+  padding: 20px; 
+}
+
+
+header p {
+  color: cornflowerblue; 
+  margin: 0 auto;
+}
+header p:hover {
+  color: cadetblue;
+}
