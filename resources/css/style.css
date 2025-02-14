@@ -6,7 +6,8 @@ body {
 header {
   margin: 0 auto; 
   padding: 20px; 
-  color: white; 
+  color: white;
+  text-align: center; 
 }
 
 
