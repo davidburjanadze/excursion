@@ -17,10 +17,13 @@ header {
 
 
 header p {
-  color: Aquamarine; 
   font-fize: 16px; 
   margin: 0 auto;
   text-align: center;
+}
+
+a {
+  color: Aquamarine; 
 }
 
 h2 {
@@ -48,5 +51,6 @@ img {
 
 .copyright {
   text-align: right;
+  margin-left: 30px; 
   color: Gray; 
 }
