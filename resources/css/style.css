@@ -7,14 +7,15 @@ body {
 
 
 header {
-  margin: 0 auto; 
-  font-size: 50px;
   font-family: verdana;
   padding: 20px; 
   color: white;
-  text-align: center; 
 }
 
+header h1 {
+  font-size: 50px; 
+  text-align: center; 
+}
 
 header p {
   font-fize: 16px; 
