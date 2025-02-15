@@ -24,7 +24,10 @@ header p {
 }
 
 a {
-  color: Aquamarine; 
+  color: #3f00ff;
+}
+a:hover {
+  color: #318ce7; 
 }
 
 h2 {
